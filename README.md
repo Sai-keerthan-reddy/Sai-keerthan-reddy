@@ -5,7 +5,7 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
-![REST API](https://img.shields.io/badge/-RESTAPI-333333?style=flat&logo=RESTAPI)
+![REST](https://img.shields.io/badge/-REST-333333?style=flat&logo=REST)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=LLM)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
@@ -16,6 +16,9 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-keras-333333?style=flat&logo=Keras)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
+![Sci-kit learn](https://img.shields.io/badge/-Scikit-333333?style=flat&logo=Scikit)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
