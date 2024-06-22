@@ -5,7 +5,7 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
-![REST](https://img.shields.io/badge/-REST-333333?style=flat&logo=REST)
+![REST API](https://img.shields.io/badge/-RESTAPI-333333?style=flat&logo=RESTAPI)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=MySQL)
 ![LLM](https://img.shields.io/badge/-LLM-333333?style=flat&logo=LLM)
 ![LangChain](https://img.shields.io/badge/-LangChain-333333?style=flat&logo=LangChain)
