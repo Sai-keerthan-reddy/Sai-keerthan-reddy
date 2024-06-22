@@ -26,10 +26,10 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 [QandA Assistant](https://github.com/Sai-keerthan-reddy/QandA-Assistant)
 
 ## Certifications
- [GenAI with Diffusion models ](https://www.linkedin.com/learning/certificates/4e3ea8e61c7641bd1f9fcb0e4bd8ea2d7f16d599b7c7f0f4fa36f4d8d7fc018f?u=74654946)
- [Prompt Engineering for Generative AI](https://www.linkedin.com/learning/certificates/437af04d39acb7a87f29acb4369f6a715f35d4a2902db942363041228b61d7fe)
- [Kore.ai XO platform End-to-End](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/koreAI%20basic%20End-to-end.pdf)
- [Machine Learning](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/saikeerthanreddy%20-%20Intro%20to%20Machine%20Learning.png)
+ [GenAI with Diffusion models ](https://www.linkedin.com/learning/certificates/4e3ea8e61c7641bd1f9fcb0e4bd8ea2d7f16d599b7c7f0f4fa36f4d8d7fc018f?u=74654946) <br>
+ [Prompt Engineering for Generative AI](https://www.linkedin.com/learning/certificates/437af04d39acb7a87f29acb4369f6a715f35d4a2902db942363041228b61d7fe)<br>
+ [Kore.ai XO platform End-to-End](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/koreAI%20basic%20End-to-end.pdf)<br>
+ [Machine Learning](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/saikeerthanreddy%20-%20Intro%20to%20Machine%20Learning.png)<br>
 
 ## ContactMe
 **Email** - Keerthan.yln67@gmail.com
