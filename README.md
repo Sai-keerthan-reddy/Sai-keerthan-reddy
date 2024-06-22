@@ -1,8 +1,8 @@
 ## Hi there 👋
 Hi, I'm Sai Keerthan, a software engineer passionate about building innovative web applications that solve real-world problems. With over 2 years of experience in full-stack development, I specialize in designing robust architectures, implementing efficient algorithms, and ensuring scalability. My strengths include optimizing performance and collaborating effectively with cross-functional teams to deliver successful projects. I'm seeking new career opportunities in software engineering and exploring exciting challenges in Artificial Intelligence to leverage my skills in creating cutting-edge AI-driven solutions.
 
-#Technologies and Tools
-[Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+## Technologies and Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
 ![REST](https://img.shields.io/badge/-REST-333333?style=flat&logo=REST)
