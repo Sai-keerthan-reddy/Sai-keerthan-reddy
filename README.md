@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I'm Sai Keerthan, a software engineer passionate about building innovative web applications that solve real-world problems. With over 2 years of experience in full-stack development, I specialize in designing robust architectures, implementing efficient algorithms, and ensuring scalability. My strengths include optimizing performance and collaborating effectively with cross-functional teams to deliver successful projects. I'm seeking new career opportunities in software engineering and exploring exciting challenges in Artificial Intelligence to leverage my skills in creating cutting-edge AI-driven solutions.
+Hi, I'm Sai Keerthan, a software engineer passionate about building innovative web applications that solve real-world problems. With over 3 years of experience in full-stack development, I specialize in designing robust architectures, implementing efficient algorithms, and ensuring scalability. My strengths include optimizing performance and collaborating effectively with cross-functional teams to deliver successful projects. I'm seeking new career opportunities in software engineering and exploring exciting challenges in Artificial Intelligence to leverage my skills in creating cutting-edge AI-driven solutions.
 
 ## Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -24,6 +24,7 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 
 ## Project
 [QandA Assistant](https://github.com/Sai-keerthan-reddy/QandA-Assistant)
+[Smart Budget Planner](https://github.com/Sai-keerthan-reddy/Smart-Budget-Planner)
 
 ## Certifications
  [GenAI with Diffusion models ](https://www.linkedin.com/learning/certificates/4e3ea8e61c7641bd1f9fcb0e4bd8ea2d7f16d599b7c7f0f4fa36f4d8d7fc018f?u=74654946) <br>
