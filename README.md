@@ -23,8 +23,8 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ## Project
-[QandA Assistant](https://github.com/Sai-keerthan-reddy/QandA-Assistant)
-[Smart Budget Planner](https://github.com/Sai-keerthan-reddy/Smart-Budget-Planner)
+[QandA Assistant](https://github.com/Sai-keerthan-reddy/QandA-Assistant) <br>
+[Smart Budget Planner](https://github.com/Sai-keerthan-reddy/Smart-Budget-Planner) <br>
 
 ## Certifications
  [GenAI with Diffusion models ](https://www.linkedin.com/learning/certificates/4e3ea8e61c7641bd1f9fcb0e4bd8ea2d7f16d599b7c7f0f4fa36f4d8d7fc018f?u=74654946) <br>
