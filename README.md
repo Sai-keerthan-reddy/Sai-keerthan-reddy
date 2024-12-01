@@ -39,6 +39,7 @@ Hi, I'm Sai Keerthan, a software engineer passionate about building innovative w
  [Prompt Engineering for Generative AI](https://www.linkedin.com/learning/certificates/437af04d39acb7a87f29acb4369f6a715f35d4a2902db942363041228b61d7fe)<br>
  [Kore.ai XO platform End-to-End](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/koreAI%20basic%20End-to-end.pdf)<br>
  [Machine Learning](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/saikeerthanreddy%20-%20Intro%20to%20Machine%20Learning.png)<br>
+ [Generative AI Fundamentals](https://github.com/Sai-keerthan-reddy/Sai-keerthan-reddy/blob/main/Databricks%20AI%20fund%20certificate.pdf)<br>
 
 ## ContactMe
 **Email** - Keerthan.yln67@gmail.com
